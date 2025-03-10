@@ -1,0 +1,10 @@
+<section>
+    <h2>Booking & Payment</h2>
+    <p>To schedule a counseling session, kindly make a payment using the details below:</p>
+    <h3>Payment Methods:</h3>
+    <ul>
+        <li><strong>Bank Transfer:</strong> (Your Bank Details Here)</li>
+        <li><strong>Google Pay:</strong> (Your Google Pay Number or QR Code)</li>
+    </ul>
+    <p>After making the payment, please send the receipt to <a href="mailto:Knavtej1998@gmail.com">Knavtej1998@gmail.com</a> to confirm your session.</p>
+</section>
